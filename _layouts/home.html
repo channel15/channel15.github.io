@@ -28,12 +28,12 @@ layout: base
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
+          {% if post.featured_image %}
+          <img src="{{ post.excerpt_image | relative_url }}" alt="{{ post.title | escape }}">
+          {% endif %}
           {{ post.title | escape }}
         </a>
       </h3>
-      <div class="featured-image">
-        <img src="{{ post.excerpt_image }}" alt="Featured Image">
-      </div>
       {%- if site.show_excerpts -%}
       {{ post.excerpt }}
       {%- endif -%}
