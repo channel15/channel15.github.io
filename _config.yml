@@ -3,7 +3,9 @@ author:
   name: Channel15
   email: Channel15@Channel15.com
 
-include: ["_pages"]
+include:
+  - _pages
+  - _tabs
 #permalink: /:title/
 permalink: /:name/
 # The `>` after `description:` means to ignore line-breaks until next key.
