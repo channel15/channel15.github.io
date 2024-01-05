@@ -27,11 +27,9 @@ layout: base
     <li>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {% if post.excerpt_image %}
           <img src="{{ post.excerpt_image | relative_url }}" alt="{{ post.title | escape }}"
-            style="max-width: 300px; width: 100%; height: auto; float: left; margin-right: 10px; ; margin-top: 10px;">
-
-          {% endif %}
+            onerror="this.onerror=null;this.src='/assets/image/default-placeholder-300x300.png';"
+            style="max-width: 300px; width: 100%; height: auto; float: left; margin-right: 10px; margin-top: 10px;">
           {{ post.title | escape }}
         </a>
       </h3>
@@ -41,6 +39,7 @@ layout: base
     </li>
     {%- endfor -%}
   </ul>
+
 
   {% if site.paginate %}
   <div class="pager">
