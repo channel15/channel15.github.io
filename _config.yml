@@ -3,7 +3,7 @@ author:
   name: Channel15
   email: Channel15@Channel15.com
 
-include: ["_pages"]
+include: ["_pages", "_tabs"]
 #permalink: /:title/
 permalink: /:name/
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -39,7 +39,7 @@ collections:
 # in order as they should show up.
 header_pages:
   - about.md
-  - tabs/archives/
+  - archives.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
