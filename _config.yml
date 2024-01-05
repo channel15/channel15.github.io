@@ -39,6 +39,7 @@ collections:
 # in order as they should show up.
 header_pages:
   - about.md
+  - archives.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
