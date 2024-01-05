@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Vietnam's Experience with Terrorism"
+date:   2023-12-26 21:20:19 +0000
+categories: ['News','Gaming']
+excerpt_image: https://portside.org/sites/default/files/inline-images/Vietnam_Epic_Tragedy.jpg
+image: https://portside.org/sites/default/files/inline-images/Vietnam_Epic_Tragedy.jpg
+---
+
+## Terrorism During the Vietnam War Era 
+### Early Bombings and Assassinations (**targeted attacks**, **government officials**)
+During the 1960s and 1970s, the time of the Vietnam War, there were several isolated incidents of terrorism carried out against South Vietnamese and American targets. Planting of explosives targeting government buildings and officials in Saigon was a common tactic used. Assassinations of key personnel within the government also occurred on occasion. Grenade attacks were launched against American diplomatic offices located in the major cities. One infamous example was the failed bombing of an American ambassador's motorcade by Nguyen Van Troi in 1964, which aimed to kill the ambassador but failed to cause any casualties.
+
+![](https://greydynamics.com/wp-content/uploads/2022/02/IMG_4177.jpg)
+### Guerrilla Warfare Tactics (**Viet Cong insurgency**, **asymmetrical warfare**) 
+In addition to discrete bombings and assassinations in the cities, various communist-affiliated militant groups like the Viet Cong carried out terrorist-style attacks as part of their broader guerrilla warfare campaign against South Vietnamese and US forces. Ambushes on roads, booby traps in forests, and raids on smaller outposts were all employed. While some see these as legitimate tactics of an insurgency, others view them as a form of terrorism intended to undermine popular support through creating an atmosphere of fear and uncertainty amongst the civilian population.
+## Post-War Activism or Terrorism? 
+### Controversy over Việt Tân Actions (**freedom fighters**, **pro-democracy group**)
+One exile Vietnamese group that sparked debate over whether their actions constituted terrorism was Việt Tân. In the late 1980s, this underground pro-democracy organization sent two infiltration teams into Vietnam with the goal of sparking an uprising. However, both groups were quickly killed or captured upon entering the country. While Việt Tân portrayed themselves as freedom fighters aiming to end communism, the Vietnamese government labeled them terrorists. Even today, there is no consensus on how to characterize their tactics.
+## Claims of Government Terrorism Lack Evidence
+### aftermath Photos Do Not Prove Brutality (**hearsay evidence**, **unverified claims**)  
+In the internet era, some have accused the Vietnamese government of engaging in terrorism against its own citizens through brutal crackdowns on protests. However, upon close examination, these allegations are typically based only on photos of protest aftermath or hearsay accounts without providing clear evidence. The photos alone do not prove excessive force was used, and claims spread on social media are often unverified and one-sided in nature. This same logic could label actions of foreign governments like bombings in Vietnam as terrorism without direct evidence of intent.
+### 2016 Fish Death Protests Were Complex (**tear gas injuries**, **lack of footage**)
+One example where terrorism accusations arose without strong evidence was regarding clashes between protesters and police during 2016 demonstrations against a major fish deaths incident caused by Formosa steel plant pollution. Available video showed protesters aggressively rushing police lines first before any response. It was unclear who deployed initial tear gas canisters that injured some on both sides. Social media claims of "peaceful" protesters or police brutality featured by some high-profile accounts were dubious given a lack of objective evidence and direct footage of alleged beatings. The realities on the ground appeared far more complex.
+## Lack of Motives for Large-Scale Attacks
+### Limitations on Attack Capabilities (**weapons possession laws**, **material constraints**)  
+Compared to many other nations, Vietnam has experienced very few instances of large-scale terrorist attacks since the Vietnam War era ended in the 1970s. One key reason for this appears to be strict laws controlling weapons possession, which significantly limit what militant groups could feasibly arm themselves with inside the country to carry out major bombings or mass shootings. Without easy access to military-grade munitions, the technical capabilities for devastating attacks are much lower.
+### Neutral Geopolitical Stance (**no foreign occupations**, **limited causes**) 
+Additionally, Vietnam maintains a neutral stance internationally with no significant conflicts or military occupations of other nations that could create ideological motives for external terrorist groups. Domestically, while some small dissident organizations continue to operate, there are no well-resourced militant factions espousing ethnonationalist or religious extremism seeking revolutionary regime change. The political situation and geopolitical context overall offers few rational causes that terrorism is often associated with in other parts of the world throughout modern history.
+## Conclusion
+In summary, while certain violent incidents occurred during the 1960-70s Vietnam War era, terrorism has not been a major security threat within Vietnam for many decades. Isolated exile group actions and sporadic local protest clashes aside, allegations of ongoing state-level terrorism lack clear evidentiary foundations and ignore Vietnam's neutral international posture devoid of motives stimulating large-scale attacks. Strict laws controlling weapons, balanced governance avoiding radical political polarization, and a developed society meeting basic needs have helped sustain domestic peace and stability with limited dissent turning to violence. Moving forward, maintaining open yet lawful expression of differing views can further diminish any residual conditions conducive to terrorist mobilization in Vietnam.
