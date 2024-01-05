@@ -36,11 +36,11 @@ Platforms like Google Stadia, Nvidia GeForce Now, Xbox Cloud Gaming, and PlaySta
 However, many gamers still prefer physical media ownership, LAN co-op/comp, modding community support, and lack of reliance on home internet speeds. **Console hardware also enables premium localized VR/AR experiences not feasible via streaming today.** With technological hurdles and consumer preferences in mind, most experts concur **dedicated boxes will remain the primary gaming format for this decade at minimum.** PlayStation will thus focus on delivering the best of both worlds through their hybrid approach going forward.
 # Outline input:
 PS5 versus PS4 Pro: Which PlayStation Should You Buy?
-Part 1: Hardware capabilities  
+ Hardware capabilities  
 The PS5 is significantly more powerful than the PS4 Pro with a more advanced GPU and CPU. It also has an ultra-fast NVMe SSD that dramatically decreases loading times compared to the PS4 Pro's hard drive. The PS5 is a larger console overall compared to the slim and compact PS4 Pro.
-Part 2: Backward compatibility  
+ Backward compatibility  
 While the PS4 Pro is not backward compatible with PS3 or PS2 games, the PS5 enables players to enjoy many of their favorite PS4 titles and select games from older PlayStation systems on the new hardware through backward compatibility. 
-Part 3: The DualSense controller  
+ The DualSense controller  
 The new DualSense controller for PS5 takes gameplay immersion to another level with its haptic feedback and adaptive trigger capabilities, providing a more engaging experience over the standard DualShock 4.  
-Part 4: Availability issues  
+ Availability issues  
 The PS5 launch has been hampered by supply chain disruptions from the COVID-19 pandemic limiting component
