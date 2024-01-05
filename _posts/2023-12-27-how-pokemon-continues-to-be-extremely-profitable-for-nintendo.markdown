@@ -7,21 +7,21 @@ excerpt_image: http://sickr.files.wordpress.com/2013/01/pokemon.jpg
 image: http://sickr.files.wordpress.com/2013/01/pokemon.jpg
 ---
 
-### **The Joint Ownership of The Pokemon Company Increases Nintendo's Profits**
+###  **The Joint Ownership of The Pokemon Company Increases Nintendo's Profits**
 The Pokemon Company (TPC) was founded in 1998 as a joint venture between Nintendo, Game Freak, and Creatures Inc to oversee all things Pokemon globally. Nintendo owns a 32% stake in TPC, making them the largest single shareholder. As an owner, Nintendo earns dividend payouts from TPC's annual profits. Recent estimates value these dividends at around $100 million per year for Nintendo based on TPC's revenues. However, the true value is likely even higher given Pokemon's immense profits. 
 
 ![](https://static3.gamerantimages.com/wordpress/wp-content/uploads/2021/06/pokemon-anime-fist-bump.jpg)
-### **Pokemon Video Games on Nintendo Platforms Drive Hundreds of Millions in Revenue**
+###  **Pokemon Video Games on Nintendo Platforms Drive Hundreds of Millions in Revenue**
 The core Pokemon video games remain exclusive to Nintendo platforms like the Switch, 3DS, and previous systems. This reliance on Nintendo hardware gives the company a huge install base advantage to sell copies. Major releases like Pokemon Sword and Shield sold over 20 million units, earning billions for TPC and Nintendo through their revenue share. As the biggest money-maker, core Pokemon games for Nintendo systems continue providing a reliable profit stream over 25 years later.
-### **Nintendo Advertising Spreads Worldwide Awareness of Upcoming Pokemon Releases** 
+###  **Nintendo Advertising Spreads Worldwide Awareness of Upcoming Pokemon Releases** 
 Though difficult to precisely quantify, Nintendo's marketing muscle through channels like Nintendo Direct has invaluable promotional benefits. By advertising upcoming Pokemon titles during these livestreams and elsewhere, Nintendo convinces some consumers to purchase both game software and Nintendo hardware. While promotion isn't free, the return on investment is likely substantial given Pokemon's massive popularity and sales performance time after time. 
-### **After 25 Years, Pokemon Remains the Second Highest-Grossing Media Franchise in the World**
+###  **After 25 Years, Pokemon Remains the Second Highest-Grossing Media Franchise in the World**
 Starting in 1996 with Pokemon Red and Blue, the franchise has sold over 380 million video games and become the all-time best-selling RPG series. Beyond games, its success spread to the Pokemon Trading Card Game, animated TV series, movies, theme parks, and $95 billion merchandise industry. As the foundation of this juggernaut, Nintendo has profited immensely as both a shareholder of TPC and platform partner. Industry analysts widely agree the Pokemon brand has generated $15-20 billion directly for Nintendo since the beginning.
-### **Nintendo Earns an Estimated Half of Annual Pokemon Profits from their Ownership Stake**  
+###  **Nintendo Earns an Estimated Half of Annual Pokemon Profits from their Ownership Stake**  
 While TPC ownership percentages are private, several financial reports indicate Nintendo likely owns more stock than Game Freak and Creatures combined. Therefore, it can be reasonably projected Nintendo earns close to 50% of TPC's annual net income. In 2021 alone, this was estimated at around $1 billion in profits led by the massive sales of Pokemon Legends: Arceus. Nintendo's multi-billion dollar windfall from Pokemon has transformed them into one of the most successful companies in the gaming industry.
-### **Additional Revenue Streams beyond Video Games Continue to Benefit Nintendo Financially**  
+###  **Additional Revenue Streams beyond Video Games Continue to Benefit Nintendo Financially**  
 Beyond video games, Pokemon generates billions each year through other business segments. The Pokemon Trading Card Game is a $900 million industry that drives kids and collectors to hunt for rare cards. The longest running anime series of all time keeps generating licensing revenue. Billions more come from theme park attractions and the largest media franchise merchandise business valued at $95 billion. While not all profits are shared with Nintendo, these extensions increase overall brand value which positively impacts Nintendo's TPC dividend payments.
-### **The Long-Term Lucrative Relationship between The Pokemon Company and Nintendo Remains Very Strong**
+###  **The Long-Term Lucrative Relationship between The Pokemon Company and Nintendo Remains Very Strong**
 After over 25 years, the partnership between The Pokemon Company and Nintendo shows no signs of slowing. As the majority owner of TPC, Nintendo ensures the most lucrative Pokemon video games like mainline titles and remakes stay exclusive to their platforms. Thissymbiotic relationship where each benefits the other has endured for generations of fans and will continue driving billions in profits for years ahead. Both companies are also invested in collaborating on new opportunities like movies, AR games, and beyond that could unlock even greater revenue potential.
-### **Emerging Technologies Open Exciting New Avenues for Pokemon-Powered Profits**
+###  **Emerging Technologies Open Exciting New Avenues for Pokemon-Powered Profits**
 Looking towards the future, the Pokemon franchise is perfectly primed to take advantage of cutting-edge innovations. Augmented reality on smartphones and Nintendo's mobile efforts could bring new Pokemon GO-level sensations. Immersive virtual reality experiences on headsets like the Oculus Quest also present compelling possibilities. Furthermore, a live-action movie adaptation planned for 2022 has blockbuster potential. As long as The Pokemon Company stays on the forefront of entertainment technology and trends, their partnership with Nintendo will remain a lucrative one for the foreseeable future.

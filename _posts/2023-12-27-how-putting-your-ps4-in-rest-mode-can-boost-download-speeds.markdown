@@ -7,25 +7,25 @@ excerpt_image: https://static1.makeuseofimages.com/wordpress/wp-content/uploads/
 image: https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/ps4-automatic-downloads-section.jpeg
 ---
 
-### The Benefits of Rest Mode Downloads
+###  The Benefits of Rest Mode Downloads
 Putting your PlayStation 4 into Rest Mode allows automatic downloads to occur efficiently in the background. While your PS4 is in Rest Mode, it dedicates system resources solely to completing downloads, updates, and any other queued up files. This helps downloads finish faster compared to when the system is powered on and in active use. 
 By utilizing Rest Mode, the PS4 is able to **download large game and system updates seamlessly**. It allocates bandwidth efficiently without competing uses slowing things down. Games, apps, and the PlayStation operating system itself can stay up-to-date automatically whether you're actively gaming or away. Rest Mode is optimized for steadily handling downloads behind the scenes.
 
 ![](http://cdn.images.dailystar.co.uk/dynamic/184/photos/528000/PS4-Rest-Mode-373528.jpg)
-### How Rest Mode Prioritizes Network Resources  
+###  How Rest Mode Prioritizes Network Resources  
 When the PlayStation 4 is powered on and in active use, system bandwidth and processing power has to be shared between downloads, games, applications, streaming media, social features, and more. This sharing of resources means downloads could see slower transfer speeds as the network connection is split between competing uses.
 In contrast, placing the PS4 into Rest Mode deprioritizes everything aside from file transfers. The system puts downloading large **game patches, access packs, and system software** front and center by fully dedicating network bandwidth solely for this purpose. No streaming, gaming, social media, or other functions vie for internet connectivity. As a result, Rest Mode facilitates measurably faster download speeds.
-### Configuring Automatic Rest Mode in Power Save Settings
+###  Configuring Automatic Rest Mode in Power Save Settings
 For effortless background downloading, users can enable an automatic Rest Mode option within the PS4's power save settings. This allows the console to sense when it has been inactive for a period of time, such as after leaving it idle overnight. With automatic Rest Mode turned on, any downloads will smoothly continue in the background without needing direct user interaction.  
 Navigating to Settings, then Power Save Settings, lets you program the PS4 to enter its low power download state based on a schedule. For example, setting it to activate Rest Mode after four hours of inactivity means your PlayStation takes care of large file transfers without draining the power supply overnight. Downloads actively progress even while you sleep or are away from home.
-### How Internet Speed Impacts Download Rates
+###  How Internet Speed Impacts Download Rates
 A console's potential download speeds are ultimately limited by your home network connection type and available bandwidth. Even when taking advantage of Rest Mode's optimizations, extremely slow internet plans may realize little real-world speed benefit over standard active downloading. Connection speeds play a huge factor in how quickly your PlayStation can pull files from PlayStation servers. 
 If you have a dated or entry-level DSL or cable internet package with limited bandwidth, Rest Mode likely won't produce mind-blowing improvements. Major file transfers may still take several hours to complete instead of just slightly faster times. However, those with mid-tier or premium internet access can significantly benefit from Rest Mode prioritizing bandwidth exclusively for downloads. Faster connections are more likely to see download boosts of 30-50% or more.
-### Understanding the Progress Bar Fluctuation  
+###  Understanding the Progress Bar Fluctuation  
 Some PlayStation 4 users report being confused when files appear to "restart" after transitioning back from Rest Mode. In reality, the download has actually been continuously progressing in the background the entire time. What's occurring is simply a visual misrepresentation caused by how remaining download size is displayed.
 When a download first begins actively, the progress bar shows the full initial file size yet to be downloaded. Then as it installs portions over time, that number decreases to reflect how much is left. However, upon waking from Rest Mode, the progress indicator resets to instead reflect what's already been **installed so far on your hard drive rather than remaining**. So while it may look like it restarted, the download has continued steadily in your absence.
-### An Example of Rest Mode in Action 
+###  An Example of Rest Mode in Action 
 To illustrate how Rest Mode benefits downloads behind-the-scenes, let's look at a practical example. Suppose you start downloading the latest update for a popular multiplayer shooter weighing in at 10GB total. Before heading to bed, 2GB have been downloaded so far. You then put your PS4 into Rest Mode for the night to let the download automatically progress.  
 Upon waking up and booting the console, the progress bar may now show reset to 8GB remaining instead of continuing from the previous 2GB mark. Though it appears higher, 8GB is actually the amount that still needs to be transferred rather than seeming to have restarted from the full 10GB. The download efficiently carried on installing new data overnight while your console slept thanks to Rest Mode optimizations.
-### In Summary
+###  In Summary
 To conclude, utilizing the Rest Mode feature on PlayStation 4 is a simple yet powerful way to boost download speeds for large files. By putting networking and processing power solely towards completing downloads, Rest Mode facilitates significantly faster transfer speeds compared to standard active use. The PS4 efficiently takes advantage of available bandwidth to keep your games, apps and system up-to-date seamlessly in the background. For PlayStation owners, taking full advantage of Rest Mode is highly recommended for accelerating software installations and updates.

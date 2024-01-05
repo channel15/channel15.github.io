@@ -7,23 +7,23 @@ excerpt_image: https://cdn.shortpixel.ai/client/q_lossy,ret_img/http://www.numsk
 image: https://cdn.shortpixel.ai/client/q_lossy,ret_img/http://www.numskull.com/wp-content/uploads/Xbox-Gaming-Tower-Amzn-02.jpg
 ---
 
-###Setting Up Your Xbox Series X Vertically
+### Setting Up Your Xbox Series X Vertically
 Having the right setup is essential for making the most of your Xbox Series X's storage. One configuration option is standing the console vertically. All modern Xbox consoles since the Xbox 360 can be positioned either vertically or laid horizontally. When placing your Series X vertically, ensure the ventilation grill is facing up to prevent overheating. An optional extra fan placed on top can help dissipate heat in this orientation. It's also important to avoid moving the console when discs are spinning to prevent potential damage or errors from occurring.  
 
 ![](https://cdn.mos.cms.futurecdn.net/Tjb9JW6Jd738pPY5mHvVSM.jpg)
-###Ensuring Stability in the Vertical Position  
+### Ensuring Stability in the Vertical Position  
 Stability must be a top priority when standing the Series X vertically. Nothing should be able to accidentally knock it over which could potentially lead to the console becoming damaged. Place it on a sturdy, level surface well away from edges to reduce the risk of any tipping incidents. Stabilizing feet or stands can provide an extra layer of security for peace of mind. Proper positioning will help the console remain upright to access storage for years to come.
-###Choosing External Storage - HDD vs SSD
+### Choosing External Storage - HDD vs SSD
 Modern blockbuster titles are reaching unprecedented sizes, with some games like **Cyberpunk 2077** requiring over 70GB alone. Others such as **Call of Duty: Black Ops Cold War** demand up to a massive 190GB of storage space. With the Series S coming equipped with only 364GB of internal memory and the Series X providing 1TB, available storage fills up rapidly when playing several newer titles simultaneously. Even older backwards compatible Xbox games from the Xbox One or Xbox 360 era consume storage if played digitally rather than on disc. Expanding storage with additional external HDD or SSD devices is essential to house your full growing library. 
-###HDDs - Affordable Bulk Storage with Tradeoffs
+### HDDs - Affordable Bulk Storage with Tradeoffs
 External hard disk drives (HDDs) offer the biggest affordable storage capacities for housing large game collections but come with slower load times than internal solid state drives (SSDs). HDDs provide excellent value as bulk storage repositories but won't match the seamless experience of running games directly from the internal SSD. You can expect longer loading screens when playing games directly from an external HDD compared to internal flash memory. They are still a very suitable option for those on a budget looking to hold a massive library.
-###SSDs - Faster Performance with Higher Costs  
+### SSDs - Faster Performance with Higher Costs  
 On the other hand, external SSDs like the Seagate Storage Expansion Card for Xbox offer improved load times much closer to that of the internal SSD thanks to their solid state flash memory. However, they currently cost significantly more per gigabyte of storage than HDDs. SSDs are worthwhile for those wanting top performance when playing games directly off of extended external storage. Consider your needs and budget to determine the best fit whether requiring quantity or quality of additional storage. 
-###Managing Your Installed Game Collection
+### Managing Your Installed Game Collection
 No matter the external solution, diligent management of installed games is crucial to maintaining ample free space. Periodically uninstall games that have been completed or are no longer actively being played can free up many gigabytes. Titles can also be moved between internal SSD storage and external devices based on what you're focusing on currently. Plus, disc versions avoid re-downloading massive files if storage becomes scarce since those games will reinstall directly from the physical disc instead. Membership services like **Xbox Game Pass** provide access to over 100 games without needing to download every game at once, helping conserve storage.
-###Backing Up Your Games and Saves
+### Backing Up Your Games and Saves
 An external HDD is the most cost-efficient means to house a full library and create an entire backup. However, HDDs can potentially fail over time. Thus, backing up save data in the cloud via a service like Dropbox ensures your progress isn't lost. Xbox One and Series X games have integrated support for automated cloud saves. For physical disc games, retaining the game discs themselves allows reinstalling titles without redownloading large files if storage space is recovered. Implementing a backup plan provides protection against potential hard drive corruption or other failures jeopardizing your saved gaming progress and collection.
-###Preparing for Increasing Storage Needs  
+### Preparing for Increasing Storage Needs  
 As games continue advancing graphically with massive open worlds, storage demands will only grow exponentially each generation. Larger external solid state drives (SSDs) like 2TB or higher capacity models may become necessary to accommodate expansive libraries long term. New faster external storage options will likely arrive offering better value propositions as technology improves. Matching or exceeding internal speeds will be paramount. Constant storage management and future-proofing solutions will remain ongoing tasks for optimally housing growing libraries across multiple generations of games spanning Xbox, Xbox 360, Xbox One and beyond on newer platforms. 
-###Recapping External Storage Recommendations  
+### Recapping External Storage Recommendations  
 To summarize, properly orienting the Xbox Series X vertically or horizontally with sufficient cooling is prudent. Add robust external storage either through an affordable high-capacity HDD for bulk storage or a faster SSD if performance is a top priority based on needs and budget. Regularly uninstall and rearrange games installed across drives to maintain free space. Back up critical save data to the cloud and retain physical discs when possible. Plan for ever-increasing storage demands down the road by selecting expandable solutions. Implementing these tactics ensures maximizing usage of both internal and extended storage for housing expansive gaming libraries now and into the future.

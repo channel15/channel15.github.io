@@ -7,23 +7,23 @@ excerpt_image: https://www.psu.com/wp/wp-content/uploads/2018/11/batman-arkham-c
 image: https://www.psu.com/wp/wp-content/uploads/2018/11/batman-arkham-collection-1024x576.jpg
 ---
 
-### Insights Into Rocksteady's Iconic Trilogy
+###  Insights Into Rocksteady's Iconic Trilogy
 The Batman Arkham Collection from Rocksteady Studios is a definitive package including all three of their acclaimed Batman games - Arkham Asylum, Arkham City, and Arkham Knight - along with every piece of downloadable content released after each game's initial launch. Totaling over 2000 words, this detailed guide will break down the contents of the collection, insights into each included base game and their substantial post-release offerings.
 
 ![](https://assets1.ignimgs.com/2013/11/22/batman-arkham-collection-generaljpg-8856a5.jpg)
-### Exploring the Asylum and Defeating Iconic Rogues  
+###  Exploring the Asylum and Defeating Iconic Rogues  
 Batman: Arkham Asylum was the inaugural title in 2009 that pioneered a new **cinematic and atmospheric take on the Batman universe**. Players assume the role of the Dark Knight as he faces confinement on Arkham Island after the Joker takes over Arkham Asylum. Featuring a compelling story and memorable boss fights against nemeses like Scarecrow and Bane, Asylum set the stage for Rocksteady's acclaimed franchise. The game received multiple story expansions like **"Harley Quinn's Revenge"** which added new areas and a boss battle against the devious doctor. Skin packs allowed customizing Batman's appearance with styles inspired by popular comics and animation.
-### Protecting Gotham City from Escalating Threats
+###  Protecting Gotham City from Escalating Threats
 Released in 2011, Batman: Arkham City took the open world concept to new heights. Players explored a sprawling, densely packed Gotham City with various districts controlled by Batman's most dangerous foes. The game delivered an even more cinematic experience through enhanced graphics and mechanics. Post-launch, story chapters like **"Catwoman"** and **"Harley Quinn"** provided new playable characters and missions. **"Arkham City Skins Pack"** added **iconic comic book visuals** for Batman, Robin, Nightwing and more. Challenge maps offered **score-attack missions** and skins to unlock.
-### Confronting the Most Sinister Threat Yet 
+###  Confronting the Most Sinister Threat Yet 
 The climactic Batman: Arkham Knight arrived in 2015 to widespread acclaim. Rocksteady took the franchise to its limits with the most robust open world yet, new fearsome villains, and the most impactful gameplay additions. Beyond the base story, two substantial story episodes – **"A Matter of Family"** and **"Season of Infamy"** – provided hours of new story missions. The **"Gotham City Stories"** DLC added even more playable characters, unique story missions and skins. Further expanding the robust gameplay were race tracks, challenge maps, and the ability to freely play as Gotham's protector even after finishing the story.
-### The Collection's Included Games
+###  The Collection's Included Games
 The Arkham Collection contains digital code downloads for the base versions of all three acclaimed Rocksteady developed Batman titles - 2009's critically praised **Batman: Arkham Asylum**, 2011's genre-expanding **Batman: Arkham City**, and the climactic 2015 conclusion **Batman: Arkham Knight**. Each praised installment will be fully remastered to optimize performance on modern platforms. 
-### Access to Over 35 Pieces of DLC
+###  Access to Over 35 Pieces of DLC
 Spanning the three Arkham titles, Rocksteady supported each game post-launch with dozens of downloadable extras totaling over 35 individual packs. The Collection contains codes to unlock **all** previously released DLC without any need to download separately. This includes substantial story expansions, new playable characters, challenging combat and predator maps, gameplay modes, concept art galleries, and numerous alternate **visual styles showcasing fan-favorite versions of Batman**.
-### Excluded but Still Memorable 
+###  Excluded but Still Memorable 
 While not part of Rocksteady's trilogy, 2009's **Batman: Arkham Origins** from WB Games Montreal holds its own merit. As a prequel taking place early in Batman's crimefighting career, it featured new sinister villains and an original story. However, Origins lies outside the core Arkham narrative from Rocksteady, so is understandably excluded to keep the Collection focused on their 3 acclaimed titles. Still, Origins remains a noteworthy addition for die-hard Batman fans.
-### Streamlined Access in One Package 
+###  Streamlined Access in One Package 
 Downloading each Arkham game and hunting online for all the DLC spread across marketplaces would pose an inconvenience. The Collection solves this by presenting the **complete collection in a single bundle**, saving users the hassle. Long-time fans repurchasing will find immense extra value gaining access to every ounce of additional content at no further cost. Newcomers can jump right into the full experience without missing out on any piece of downloadable addons. 
-### The Definitive Experience for Batman Fans
+###  The Definitive Experience for Batman Fans
 For those seeking the full Arkham narrative crafted by Rocksteady Studios across 3 games, along with every mission, skin and gameplay mode released, the Batman Arkham Collection delivers everything in one convenient package. By containing digital versions of all 3 acclaimed Arkham titles plus over 35 downloadable add-ons totaling dozens of hours of additional content, this collection provides fans with the definitive Batman experience on current consoles and PC. After more than a decade, the impact of Rocksteady's iconic contributions to the Dark Knight remains unparalleled, now accessible together in one complete package.

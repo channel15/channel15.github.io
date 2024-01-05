@@ -7,21 +7,21 @@ excerpt_image: http://pediaa.com/wp-content/uploads/2018/10/Difference-Between-S
 image: http://pediaa.com/wp-content/uploads/2018/10/Difference-Between-Static-IP-Address-and-Dynamic-IP-Address-Comparison-Summary.jpg
 ---
 
-###**The Differences Between Dynamic and Static IP Addresses**
+### **The Differences Between Dynamic and Static IP Addresses**
 Dynamic IP addresses are assigned by a DHCP server each time a device connects to the network. A DHCP (Dynamic Host Configuration Protocol) server manages IP addresses and leases them out to clients on the network. This allows devices to connect and disconnect from the network while still maintaining a working IP address, albeit a different one each time. Static IP addresses, on the other hand, stay the same regardless of whether the device is connected or disconnected from the network. The address is manually configured and doesn't change unless specifically updated by an administrator or user. 
 
 ![](https://digitalmediaglobe.com/wp-content/uploads/2020/11/Difference-between-static-and-dynamic-IP-address.jpg)
-###**Impact on Gaming Clients**
+### **Impact on Gaming Clients**
 As a gaming client connecting to online game servers, your IP address has no bearing on your ability to seamlessly play. When joining a server, you provide your current dynamic or static IP to the server for authentication and connectivity purposes. As long as that address can be resolved, you will be granted access to gameplay. Dynamic IP addresses regularly handled by DHCP in this scenario function identically to static ones from the perspective of the client connection.
-###**Servers Require **Static IP Addresses**
+### **Servers Require **Static IP Addresses**
 While clients can utilize either dynamic or static IPs, game servers absolutely need a static IP address configured in order to ensure stable gameplay sessions for all connected players. If the server had a dynamic IP assigned by DHCP, there is a risk that its address could change mid-session, kicking players off in the process as their connections would no longer be valid. This would disrupt the gaming experience for everyone. Statically configuring the server IP prevents potential address changes from improperly terminating sessions in the middle of gameplay. 
-###**Long DHCP Lease Times Minimize Disconnection Risk**  
+### **Long DHCP Lease Times Minimize Disconnection Risk**  
 A key factor in why dynamic IP addressing rarely impacts clients is how DHCP lease times are set by default. Most home and small business routers will lease out an IP address for a period of 24 hours or more at a time before it expires. But devices also automatically renew their leases halfway through the period to maintain connectivity without changing addresses. Unless the DHCP server runs out of leases altogether, clients will usually keep the same dynamic address for multiple days of gameplay sessions thanks to built-in renewal processes.
-###**Infrequent Reboots Further Reduce Address Churn**
+### **Infrequent Reboots Further Reduce Address Churn**
 Combined with the inherent stability provided by long DHCP lease periods, most home gaming devices like consoles, PCs, and mobile phones are infrequently rebooted, reducing opportunities for dynamic IP changes in the first place. While the address could theoretically change during a reboot as the client requests a new lease, modern operating systems and routers ensure the process happens seamlessly without interrupting established connections. Unless devices are power cycling constantly, dynamic IP addresses function as static ones for all intents and purposes of online multiplayer gaming.
-###**DNS Translates Dynamic IPs Transparently**  
+### **DNS Translates Dynamic IPs Transparently**  
 Even if a dynamic IP address does happen to change behind the scenes, it typically has no bearing on gameplay as long as the client computer can still resolve DNS names as expected. DNS (Domain Name System) provides a layer of abstraction that transparently translates domain names like examplegame.com into the corresponding IP addresses needed for internet traffic. As long as DNS is properly configured on the home network and with the game server, clients can seamlessly connect whether using dynamic or static IPs - DNS handles address changes seamlessly without requiring any updates from the user.
-###**Rare Scenarios may Benefit from Static IPs**
+### **Rare Scenarios may Benefit from Static IPs**
 In very uncommon edge cases where a home gaming network has unreliable DNS services that can't resolve dynamic IP changes smoothly, clients may theoretically see some marginal benefit from configuring static IP addresses instead. This ensures the IP itself doesn't change between gameplay sessions, theoretically providing more reliable connections over multiple days of gaming. But for the vast majority of domestic broadband networks, even dynamic IP addressing works seamlessly thanks to factors like long lease times and robust DNS translation services. 
-###**Summary Recommendations**
+### **Summary Recommendations**
 To summarize, while game servers absolutely require static IP configurations for reliable gameplay, dynamic IP addressing functionally handles like a static address for online gaming clients in almost all mainstream use cases and connection types. Long DHCP leases, infrequent device reboots, and DNS services alleviate any risks of addresses disrupting connections. Unless on an unusually flaky home network, the vast majority of gamers need not worry about IP addressing type impacting their online experience. A dynamic IP assigned automatically works just fine, reserving static configurations primarily for authoritative game servers.
