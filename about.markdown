@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#About Us
+# About Us
 
 Welcome to Channel 15, your go-to source for the latest news, insights, and updates in the world of gaming, technology, and more. Our dedicated team of writers and enthusiasts aims to bring you engaging content that informs and entertains.
 
