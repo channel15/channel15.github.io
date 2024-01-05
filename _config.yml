@@ -39,16 +39,6 @@ collections:
 # in order as they should show up.
 header_pages:
   - about.md
-  # - archives.md
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
