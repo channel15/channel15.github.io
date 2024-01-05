@@ -31,19 +31,19 @@ With the Pro's added computing muscles, developers utilize bigger budgets for th
 PS4 Pro allows implementing sophisticated techniques like **ambient occlusion** for natural shadows and indirect lighting. **Volumetric fog** and other advanced effects transport players even deeper into believable virtual worlds.
 ##  Maintaining a Smooth VR Experience
 A smooth VR experience depends on minimized latency, maintained **performance**, and consistent **framerates**. To ensure player comfort, Sony established strict requirements for all PSVR games across PS4 systems.
-###Mandatory 60FPS Across Consoles
+### Mandatory 60FPS Across Consoles
 All PSVR titles must run at a stable 60 frames-per-second refresh regardless of hardware. This provides comfortable motion handling. Games employ different techniques to maintain steady FPS.
-###120Hz Display via Asynchronous Timewarp  
+### 120Hz Display via Asynchronous Timewarp  
 While the PS VR display refresh is only 60Hz, original PS4 and Slim double that via **asynchronous timewarp**. This **reprojection** method predicts and renders intermediate **frames resulting in an effective 120Hz.**
-###Pro Capable of 90Hz on Select Games
+### Pro Capable of 90Hz on Select Games
 The PS4 Pro has extra power to render select games natively at 90Hz refresh for an even smoother look. With reduced **judder** and **motion blur**, 90Hz further increases realism and reduces any potential for motion sickness.
 ##  Choosing Your Optimal PS4 for VR  
 Not every player needs to or desires upgrading from their existing PS4 just for VR support. Here are some guidelines on the best system based on your situation:
-###Original PS4 Delivers Great VR 
+### Original PS4 Delivers Great VR 
 For those still using a launch PS4, be confident VR will work fantastically. With required 60FPS support across models, graphics and performance are ample for immersive play.
-###PS4 Slim A Solid Choice As Well
+### PS4 Slim A Solid Choice As Well
 New buyers on a budget should feel great about the value of a PS4 Slim. Its compact design takes up less space while providing an identical VR experience through shared internals.  
-###PS4 Pro For Noticeable Improvements
+### PS4 Pro For Noticeable Improvements
 Those preferring leading graphics technology will appreciate visual refinements like higher resolutions and smoother frame pacing from the Pro's extra horsepower. Minor stuttering is reduced.
 In the end, any PS4 enables wonderful virtual worlds through PSVR. Choosing comes down to budget, desire for refined visuals, and console availability rather than strict need for optimal VR support.
 ##  Enjoying 2D PSVR Content on Other Consoles
@@ -60,14 +60,14 @@ With differing specifications between PS4 variants, some may experience mild dis
 By requiring a locked 60FPS and using techniques like **asynchronous timewarp**, experiences consistently provide fluid motion rendering above the 90Hz visual persistence threshold for reduced nausea.
 ### Original PS4 May Rarely Dip Below  
 While original PS4 targets that 90Hz minimum, more taxing games could potentially cause brief dips which may induce slight dizziness until correcting itself. This happens infrequently.
-###Accessibility Options Address Sensitivity
+### Accessibility Options Address Sensitivity
 Options such as **teleporting locomotion** instead of smooth movement, **snap turns**, and **comfort settings** provide alternatives for players prone to sickness. Developers consider varied sensibilities.
 Through clever design accommodating diverse hardware, PSVR creates welcoming virtual worlds gentle enough for most to explore intuitively without compromising the intensity that makes immersive experiences so compelling.
 ##  Final Thoughts on PS VR Compatibility 
 In closing, it's clear that PS VR was engineered to give all PS4 owners access to premium virtual reality gaming regardless of exact console specifications. While upgrades introduce small improvements, any PS4 delivers deep VR enjoyment.
-###Full Support Across PlayStation Hardware
+### Full Support Across PlayStation Hardware
 From original launch systems to subsequent revisions, backward compatibility and rigorous performance tests validate PS VR functions seamlessly on any PlayStation hardware. 
-###Minor Differences Don't Define Experiences
+### Minor Differences Don't Define Experiences
 Though Pro models harness stronger capabilities, base consoles still transport users into compelling gameworlds. Well-optimized titles consistently hit targets ensuring comfort.
-###Outstanding Value for New and Existing Players Alike
+### Outstanding Value for New and Existing Players Alike
 With investment mostly in excellent VR-enhanced content rather than requiring new hardware, PS VR makes virtual experiences available and affordable to all PlayStation homeowners. Truly next-gen gameplay awaits any PS4 owner.

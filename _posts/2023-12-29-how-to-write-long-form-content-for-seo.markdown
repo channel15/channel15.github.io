@@ -19,7 +19,7 @@ Start by creating a high-level outline splitting your content into 6 main sectio
 The introduction is crucial for setting expectations and grabbing attention. Summarize the overall topic and **tease the key** information readers will learn. Explain why this content is useful and solve a problem for them. Keep it under 250 words.
 ### Develop The Main Parts 
 Each main part should: 
-- Have a descriptive title as a subheading (###)
+- Have a descriptive title as a subheading (### )
 - Contain 5-7 well-structured paragraphs 
 - Be 250-350 words in length
 - Target a specific aspect or **answer a related question**  

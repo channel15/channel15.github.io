@@ -27,14 +27,14 @@ If the above steps fail to resolve your wireless headset issues, it's time to re
 Wireless headset connectivity interruptions can become very frustrating during online gaming. But taking a methodical approach to troubleshooting the possible causes, starting with simple tests and working through potential areas one by one, will usually pin down a solution. Reset any paired devices, update firmware, clean contacts, and eliminate interference sources as some initial steps. If the issue remains, community support and manufacturer contacts should be able to resolve it. With patience and process of elimination, you can get back to lag-free audio fun!
 ### Additional Troubleshooting Tips
 Below are some additional tips you may want to try for troubleshooting wireless headset issues on PlayStation:
-#### Updating Console System Software
+### # Updating Console System Software
 Outdated PlayStation system software can sometimes cause Bluetooth connectivity bugs. Be sure your PlayStation console has the most up-to-date system software version installed.
-#### Trying a Different USB Port 
+### # Trying a Different USB Port 
 If using a wireless dongle transmitter, swap it to a different USB port on your console in case the original port is faulty. 
-#### Adjusting Headset Transmitter Placement
+### # Adjusting Headset Transmitter Placement
 Experiment positioning your headset's wireless transmitter in various locations, either pointed directly at the console or raised higher. Different angles may help prevent signal interference or drop-offs.
-#### Factory Resetting Your Headset
+### # Factory Resetting Your Headset
 As a last resort before contacting support, perform a full factory reset on your wireless headset by holding down certain buttons for prolonged periods as described in its manual. This will reset all settings to defaults.
-#### Isolating Headset in Another Device  
+### # Isolating Headset in Another Device  
 See if your wireless headset works properly when paired to another device like a smartphone, to rule out whether the headset itself may be malfunctioning.
 I hope these additional troubleshooting suggestions help you resolve wireless connectivity problems with your PlayStation headset! Let me know if any other questions come up.

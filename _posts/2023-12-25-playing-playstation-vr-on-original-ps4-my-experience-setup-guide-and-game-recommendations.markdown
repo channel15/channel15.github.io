@@ -18,13 +18,13 @@ While PSVR does function well enough on the base PS4, there are some simple step
 Most importantly, ensure your game files are installed to the internal hard drive rather than an external one, as this can help avoid potential hitching or stuttering during intense VR gameplay. Also, avoid running additional apps or games in the background when using PSVR. Let the PS4 focus its full processing power on the VR experience alone. While these optimization tips do not replace the power of a PS4 Pro, they can help squeeze extra Performance out of the base PS4 to enhance comfort and immersion with PlayStation VR.
 ### Comprehensive Setup Guide for PSVR on Original PS4
 Now that we've covered my experience with PSVR and tips for getting the most from a standard PS4, let's dive into the full setup process. The following step-by-step instructions will guide you through connecting and configuring all the required PlayStation VR hardware and software:
-#### Connecting the Processor Unit 
+### # Connecting the Processor Unit 
 Start by connecting the small rectangular Processor Unit to your PS4 using the supplied HDMI cable. Plug the other end of this cable into your TV as well. Then, attach the long USB cable from the Processor Unit to one of the USB ports on your PS4. Finally, connect the power cable and audio/video cable to the Processor Unit. 
-#### Mounting the PlayStation Camera 
+### # Mounting the PlayStation Camera 
 The PS Camera is essential for positional head tracking with PSVR. Place it high up pointing down, either by mounting above or just below your TV. Be sure it has an unobstructed view of the entire play area. 
-#### Running Initial Configuration 
+### # Running Initial Configuration 
 Power on your PS4 and plug the VR headset into the Processor Unit. When prompted, put on the headset and follow the on-screen instructions to calibrate room lighting, set up the play area boundaries, and finalize the VR setup process. 
-#### Pairing Controllers (Optional)
+### # Pairing Controllers (Optional)
 If using PlayStation Move motion controllers, plug their charging cables into free USB ports and press the PlayStation button while pointing them at the camera to sync. DualShock 4 controllers simply need to be switched on.
 With these basic steps completed, you'll be all set to enjoy immersive games and experiences in virtual reality on your original PlayStation 4. Stick around for my recommendations on must-play PSVR titles that take full advantage of what the platform has to offer.
 ### Interactive VR with PlayStation Move Controllers
