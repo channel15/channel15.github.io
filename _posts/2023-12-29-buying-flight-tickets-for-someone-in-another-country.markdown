@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Buying Flight Tickets for Someone in Another Country"
-date: 2023-12-29 05:56:39 +0000
-categories: "News"
+date: 2024-07-28 01:56:39 +0000
+categories: "Travel"
 excerpt_image: https://i1.wp.com/chipjourney.com/wp-content/uploads/2019/08/best-time-to-buy-airline-tickets.jpg?fit=1280%2C893&amp;ssl=1
 image: https://i1.wp.com/chipjourney.com/wp-content/uploads/2019/08/best-time-to-buy-airline-tickets.jpg?fit=1280%2C893&amp;ssl=1
 ---
