@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /Privacy-Policy/
 ---
 
-# Privacy Policy
-
 At **Channel 15** ("we", "our", or "us"), accessible at **channel15.github.io**, your privacy is one of our top priorities. This Privacy Policy outlines the types of personal information we collect, how we use and protect that information, and your rights regarding your data.
 
 ---

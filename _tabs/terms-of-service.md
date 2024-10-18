@@ -4,8 +4,6 @@ title: Terms of Service
 permalink: /Terms-of-Service/
 ---
 
-# Terms of Service  
-
 Welcome to **Channel 15**! These Terms of Service ("Terms") govern your use of our website **channel15.github.io** (“website”, "site"). By accessing or using our site, you agree to be bound by these Terms. If you do not agree to these Terms, please discontinue using the site immediately.  
 
 ---
