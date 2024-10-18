@@ -42,8 +42,8 @@ collections:
 header_pages:
   - _tabs/about.md
   - _tabs/contact.md
-  - _tabs/Terms-of-Service.md
-  - _tabs/Privacy-Policy.md
+  - _tabs/terms-of-service.md
+  - _tabs/privacy-policy.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
