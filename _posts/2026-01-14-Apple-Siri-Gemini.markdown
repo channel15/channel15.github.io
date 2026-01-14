@@ -3,11 +3,9 @@ layout: post
 title: 'Apple & Google: From "Thermonuclear War" to the Historic 2026 AI Partnership'
 date: 2026-01-13 01:54:42 +0000
 categories: "News"
-excerpt_image: https://github.com/channel15/channel15.github.io/blob/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
-image: https://github.com/channel15/channel15.github.io/blob/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
+excerpt_image: https://raw.githubusercontent.com/channel15/channel15.github.io/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
+image: https://raw.githubusercontent.com/channel15/channel15.github.io/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
 ---
-
-# Apple & Google: From Steve Jobs’ "Thermonuclear War" to the Historic Gemini Partnership
 
 **In early 2026, the tech world was rocked by an official announcement: Apple would integrate Google’s Gemini AI model into the core of Siri. For younger users, this might seem like just another feature update. But for those who have followed the tech industry for over a decade, this is the most significant "pivot" in the history of Silicon Valley.**
 
@@ -53,7 +51,7 @@ Bringing Gemini to Siri isn’t a surrender; it’s a brilliant business deal. A
 > *"In business, there are no permanent enemies, only permanent interests."*
 
 ---
-![IMAGE: Apple Logo merging with Google Gemini Aurora logo](https://github.com/channel15/channel15.github.io/blob/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png)
+![IMAGE: Apple Logo merging with Google Gemini Aurora logo](https://raw.githubusercontent.com/channel15/channel15.github.io/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png)
 ---
 
 ## 5. What Does This Mean for You?
