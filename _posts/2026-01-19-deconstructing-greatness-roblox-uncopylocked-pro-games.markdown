@@ -7,8 +7,6 @@ excerpt_image: https://raw.githubusercontent.com/channel15/channel15.github.io/r
 image: https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg
 ---
 
-# Deconstructing Greatness: How I’m Using the 35+ New “Uncopylocked” Pro Games to Truly Learn Roblox Development
-
 *Learning real game development by studying projects with 10+ million visits, not tutorials.*
 
 ## Introduction: A Developer’s Parting Gift
