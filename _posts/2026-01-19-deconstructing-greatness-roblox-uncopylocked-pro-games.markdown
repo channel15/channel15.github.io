@@ -22,6 +22,7 @@ Thirty-seven projects. Full games. Experimental systems. Legacy code. Production
 This wasn’t a tutorial pack. This was a career laid bare.
 
 As someone who cares deeply about learning *how real Roblox games are actually built*, this felt less like a resource drop and more like a responsibility. You don’t skim something like this. You sit with it. You study it. You respect it.
+![](https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/6fe6637b-8bdb-4bda-a445-e5b78b5dd2ac.jpg)
 
 ---
 
@@ -46,7 +47,7 @@ Here’s what makes this release genuinely rare:
 * No paywalls, no licenses, no gimmicks
 
 If you’ve ever wondered how a solo or small-team Roblox developer structures serious projects, this is as close as you’ll ever get to an apprenticeship.
-
+~[](https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg)
 ---
 
 ## The Collection at a High Level
@@ -87,7 +88,7 @@ Even if you never build a clan base, the patterns show up everywhere else.
 Horror prototypes, social hubs, driving simulators, minimalist showcases.
 
 These taught me something unexpected: how often professional developers prototype entire games just to test *one idea*.
-
+![]](https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/343b3f52-e4d4-4781-95a0-52126666aa9f.jpg)
 ---
 
 ## The “Scrap Part” Methodology I’m Using
