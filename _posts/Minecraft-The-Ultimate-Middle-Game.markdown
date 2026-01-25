@@ -6,9 +6,9 @@ layout: post
 date: '2026-01-24 01:54:42 +0000'
 categories: News
 excerpt_image: >-
-  {{site.baseurl}}/_posts/Create_image_for_202601251524(1).jpeg
+  https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/_posts/Create_image_for_202601251524(1).jpeg
 image: >-
-  {{site.baseurl}}/_posts/Create_image_for_202601251524(1).jpeg
+  https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/_posts/Create_image_for_202601251524(1).jpeg
 ---
 Middle games are the opposite of your dream game; they are games that you make quickly to learn the craft and earn rent money. The point of a middle game is not to become a millionaire but to get something public.
 
@@ -25,7 +25,7 @@ I can hear the Reddit comments already: *"Chris, you can't learn from Minecraft,
 Yes, there is luck involved. But if you look past the billions of dollars, Minecraft is actually the perfect example of the **"Middle Game" strategy**. It was an MVP (Minimum Viable Product) developed in a weekend. It fits the "Crafty-Buildy" meta-genre perfectly.
 
 If you are early in your game dev journey, observe how Markus "Notch" Persson managed to ship fast, instead of spending years suffering for his art.
-![Create_image_for_202601251524(1).jpeg]({{site.baseurl}}/_posts/Create_image_for_202601251524(1).jpeg)
+![Create_image_for_202601251524(1).jpeg](https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/_posts/Create_image_for_202601251524(1).jpeg)
 
 ## What is Minecraft (The 2009 Version)?
 
@@ -50,7 +50,7 @@ The response was electric. Players didn't care about the graphics. They cared ab
 Notch had accidentally created the ultimate marketing asset: a game that generates its own content. This is exactly what I talk about when I mention **"Friend-slop"**—games where the fun comes from social interaction and sharing rather than high-fidelity polish.
 
 ## Launch: The "Paid Alpha" Battery
-![Create_image_for_202601251524.jpeg]({{site.baseurl}}/_posts/Create_image_for_202601251524.jpeg)
+![Create_image_for_202601251524.jpeg](https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/_posts/Create_image_for_202601251524.jpeg)
 
 By 2010, the game entered Alpha. Notch introduced a business model that was revolutionary: **Paid Alpha**.
 
