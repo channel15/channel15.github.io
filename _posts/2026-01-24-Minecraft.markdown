@@ -1,4 +1,5 @@
 ---
+title: 'Minecraft: The Ultimate Middle Game (And why you need to stop building your Dream Game)'
 layout: post
 date: '2026-01-24 01:54:42 +0000'
 categories: News
