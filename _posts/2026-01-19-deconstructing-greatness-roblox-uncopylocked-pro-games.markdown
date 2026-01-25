@@ -1,10 +1,14 @@
 ---
 layout: post
-title: 'Deconstructing Greatness: Learning Roblox Development from 35+ Uncopylocked Pro Games'
-date: 2026-01-19 12:54:42 +0000
-categories: "Gaming"
-excerpt_image: https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg
-image: https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg
+title: >-
+  Deconstructing Greatness: Learning Roblox Development from 35+ Uncopylocked
+  Pro Games
+date: '2026-01-19 12:54:42 +0000'
+categories: Gaming
+excerpt_image: >-
+  https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg
+image: >-
+  https://raw.githubusercontent.com/channel15/channel15.github.io/refs/heads/main/assets/image/37274513-2073-40c1-a104-8c1a4f0d20b5.jpg
 ---
 
 *Learning real game development by studying projects with 10+ million visits, not tutorials.*
@@ -12,6 +16,7 @@ image: https://raw.githubusercontent.com/channel15/channel15.github.io/refs/head
 ## Introduction: A Developer’s Parting Gift
 
 What if you could open a Roblox game with ten million visits and calmly inspect every script, every architectural decision, every mistake and every clever workaround?
+![Deconstructing Greatness: Learning Roblox Development from 35+ Uncopylocked Pro Games]({{site.baseurl}}/_posts/d7315406-0d69-462f-b732-63884e029984.jpg)
 
 In May 2024, veteran Roblox developer **GamerOkami** quietly did something that still feels unreal. After more than a decade of building games, earning serious Robux, and amassing over ten million visits across their portfolio, they stepped away from Roblox to attend college. Instead of locking everything behind nostalgia or monetization, they uncopylocked their entire body of work.
 
