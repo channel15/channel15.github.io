@@ -6,9 +6,9 @@ layout: post
 date: '2026-01-24 01:54:42 +0000'
 categories: News
 excerpt_image: >-
-  https://raw.githubusercontent.com/channel15/channel15.github.io/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
+  {{site.baseurl}}/_posts/Create_image_for_202601251524(1).jpeg
 image: >-
-  https://raw.githubusercontent.com/channel15/channel15.github.io/2031b97479f2d0f09c3384cdb426f9bb71d75565/assets/image/apple_google_ai_handshake_1768356046297.png
+  {{site.baseurl}}/_posts/Create_image_for_202601251524(1).jpeg
 ---
 Middle games are the opposite of your dream game; they are games that you make quickly to learn the craft and earn rent money. The point of a middle game is not to become a millionaire but to get something public.
 
